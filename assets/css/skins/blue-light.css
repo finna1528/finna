@@ -1,0 +1,102 @@
+
+.btn-color {
+    background: #3c9dff;
+    border-color: #3c9dff;
+}
+
+.btn-color:hover {
+    background: #318dea;
+    border-color: #318dea;
+}
+
+.main-header .dropdown-menu a:hover {
+    background: transparent;
+    color: #3c9dff;
+}
+
+.setting-button {
+    background: #3c9dff;
+}
+
+.banner .banner-slider-inner p{
+    color: #3c9dff;
+}
+
+.love-story-box .love-story-content {
+    background: #3c9dff;
+}
+
+.love-story-box h4 {
+    color: #3c9dff;
+}
+
+.close-offcanvas{
+    color: #3c9dff;
+}
+
+#page_scroller {
+    background:  #3c9dff;
+}
+
+.read-more {
+    color: #3c9dff;
+}
+
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background: #3c9dff;
+}
+
+li.active.btn.filtr-button.filtr {
+    color: #fff;
+    background: #3c9dff;
+}
+
+.filteriz-navigation li:hover {
+    color: #fff;
+    background: #3c9dff;
+}
+
+.blog .date-box {
+    background: #3c9dff;
+}
+
+.categories ul li a:hover {
+    color: #3c9dff;
+}
+
+.popular-tags ul li a:hover {
+    border: solid 1px #3c9dff;
+    background: #3c9dff;
+    color: #fff;
+}
+
+/** MEDIA **/
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #3c9dff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: #3c9dff;
+    }
+}
+
+@media (min-width: 991px) {
+    .sticky-header .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #fff !important;
+    }
+
+    .sticky-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #fff !important;
+        opacity: .8;
+    }
+
+    .header-shrink .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #515151 !important;
+    }
+
+    .header-shrink .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #515151 !important;
+    }
+}

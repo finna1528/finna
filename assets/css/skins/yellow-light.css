@@ -1,0 +1,102 @@
+
+.btn-color {
+    background: #eae328;
+    border-color: #eae328;
+}
+
+.btn-color:hover {
+    background: #d6cf23;
+    border-color: #d6cf23;
+}
+
+.main-header .dropdown-menu a:hover {
+    background: transparent;
+    color: #eae328;
+}
+
+.setting-button {
+    background: #eae328;
+}
+
+.banner .banner-slider-inner p{
+    color: #eae328;
+}
+
+.love-story-box .love-story-content {
+    background: #eae328;
+}
+
+.love-story-box h4 {
+    color: #eae328;
+}
+
+.close-offcanvas{
+    color: #eae328;
+}
+
+#page_scroller {
+    background:  #eae328;
+}
+
+.read-more {
+    color: #eae328;
+}
+
+.tab-box .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background: #eae328;
+}
+
+li.active.btn.filtr-button.filtr {
+    color: #fff;
+    background: #eae328;
+}
+
+.filteriz-navigation li:hover {
+    color: #fff;
+    background: #eae328;
+}
+
+.blog .date-box {
+    background: #eae328;
+}
+
+.categories ul li a:hover {
+    color: #eae328;
+}
+
+.popular-tags ul li a:hover {
+    border: solid 1px #eae328;
+    background: #eae328;
+    color: #fff;
+}
+
+/** MEDIA **/
+@media (max-width: 992px) {
+    .main-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #eae328 !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: #eae328;
+    }
+}
+
+@media (min-width: 991px) {
+    .sticky-header .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #fff !important;
+    }
+
+    .sticky-header .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #fff !important;
+        opacity: .8;
+    }
+
+    .header-shrink .navbar-expand-lg .navbar-nav .active .nav-link {
+        color: #515151 !important;
+    }
+
+    .header-shrink .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #515151 !important;
+    }
+}
